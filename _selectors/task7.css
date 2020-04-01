@@ -1,0 +1,11 @@
+.dark .color li:nth-child(4) {
+    background-color: darkred;
+}
+
+.normal .color li:nth-child(4) {
+    background-color: yellow;
+}
+
+.normal .color li:nth-child(2) {
+    background-color: red;
+}

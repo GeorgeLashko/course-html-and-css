@@ -1,0 +1,3 @@
+.list1 ul li:nth-child(2) {
+    background-color: red;
+}
